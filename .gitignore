@@ -1,0 +1,28 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE / 编辑器
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 构建产物
+dist/
+build/
+*.log
